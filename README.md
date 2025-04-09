@@ -1,3 +1,4 @@
+```
 $ bat launch_config_file.sh
 ───────┬────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 │ File: launch_config_file.sh
@@ -53,3 +54,4 @@ $ ./launch_cli.sh
 Host:  host_from_cli
 Port:  8083
 Debug: true
+```
